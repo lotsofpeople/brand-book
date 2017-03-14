@@ -39,10 +39,10 @@ Capitals, spacing, breaks? Consistency.
 ### Customer Care
 - How do we communicate with customers?
 
-### Long Editioral Content (e.g. Blog posts)
+### Short Editioral Content (e.g. Blog Intro's, teasers, baits)
 - Do's, don'ts?
 
-### Short Editioral Content (e.g. Blog Intro's, teasers, baits)
+### Long Editioral Content (e.g. Blog posts)
 - Do's, don'ts?
 
 ### Branded Content (e.g. Ads, Video trailers, anouncements)
