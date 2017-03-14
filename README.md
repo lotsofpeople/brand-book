@@ -33,6 +33,9 @@ Max 10 sentence statement on company mission and vision.
 - What approach do we prefer?
 - What do we want to avoid?
 
+### Spelling
+Capitals, spacing, breaks? Consistency.
+
 ### Customer Care
 - How do we communicate with customers?
 
