@@ -36,10 +36,10 @@ Max 10 sentence statement on company mission and vision.
 ### Customer Care
 - How do we communicate with customers?
 
-### Long Editioral Content (e.g. Website columns)
+### Long Editioral Content (e.g. Blog posts)
 - Do's, don'ts?
 
-### Short Editioral Content (e.g. Film Tips)
+### Short Editioral Content (e.g. Blog Intro's, teasers, baits)
 - Do's, don'ts?
 
 ### Branded Content (e.g. Ads, Video trailers, anouncements)
