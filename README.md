@@ -1,4 +1,4 @@
-# Brand Book
+# Brand Book Template
 for Client XYZ
 by Lots of People (2017)
 
